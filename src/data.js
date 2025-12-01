@@ -1,5 +1,3 @@
-// --- DATA SECTION ---
-
 import {
   LuGithub,
   LuHeart,
@@ -140,4 +138,15 @@ export const NAV_LINKS = [
   {href: "#work", label: "Work"},
   {href: "#journey", label: "Journey"},
   {href: "#contact", label: "Contact"},
+];
+
+export const SKILL_MODULES = [
+  "Initializing Kernel...",
+  "Loading Mechanical Priors...",
+  "Mounting React Systems...",
+  "Optimizing Neural Networks...",
+  "Calibrating Empathy Sensors...",
+  "Compiling TypeScript...",
+  "Analyzing NPM Ecosystem...",
+  "System Ready.",
 ];
